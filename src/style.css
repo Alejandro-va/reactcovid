@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+   
+}
+.navBar{
+   background-color: #ad1717;
+   margin-bottom: 20px;
+   width: 100%;
+}
+.navbar{
+   padding: 0 !important; 
+}
